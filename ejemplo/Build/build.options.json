@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Program Files (x86)\\Arduino\\libraries",
+  "customBuildProperties": "build.path=C:\\Users\\judlup\\Desktop\\WorkShop 1 - Arduino desde cero\\ejemplo\\Build,build.warn_data_percentage=75,runtime.tools.avrdude.path=C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,runtime.tools.arduinoOTA.path=C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,runtime.tools.avr-gcc.path=C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "C:\\Program Files (x86)\\Arduino\\hardware,D:\\Mis Documentos\\Arduino\\hardware",
+  "otherLibrariesFolders": "D:\\Mis Documentos\\Arduino\\libraries",
+  "runtime.ide.version": "10806",
+  "sketchLocation": "C:\\Users\\judlup\\Desktop\\WorkShop 1 - Arduino desde cero\\ejemplo\\ejemplo.ino",
+  "toolsFolders": "C:\\Program Files (x86)\\Arduino\\tools-builder,C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr"
+}

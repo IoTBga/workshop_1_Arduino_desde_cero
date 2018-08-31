@@ -1,0 +1,22 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\judlup\\Desktop\\WorkShop 1 - Arduino desde cero\\ejemplo\\Build\\sketch\\ejemplo.ino.cpp",
+    "Include": "EEPROM.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\EEPROM\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\judlup\\Desktop\\WorkShop 1 - Arduino desde cero\\ejemplo\\Build\\sketch\\ejemplo.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
